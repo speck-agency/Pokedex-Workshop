@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="1024px" viewBox="0 0 1440 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Pokedex Copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="163" cy="148" r="32"></circle>
+        <filter x="-22.7%" y="-22.7%" width="148.4%" height="148.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Pokedex-Copy-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1440" height="1024"></rect>
+        <path d="M735.865893,155.5 C726.132675,157.616521 721.5,162.170268 721.5,169.312145 C721.5,170.540693 721.5,170.540693 721.5,173.694308 C721.5,177.810456 721.5,177.810456 721.5,183.85167 C721.5,198.821698 721.5,198.821698 721.5,221.49199 C721.5,278.382973 721.5,278.382973 721.5,366.075015 C721.5,587.660688 721.5,587.660688 721.499891,932.468709 C721.384072,942.061225 724.936236,946.5 732.443528,946.5 C733.62036,946.5 733.62036,946.5 736.346704,946.5 C739.847804,946.5 739.847804,946.5 744.898416,946.5 C757.323907,946.5 757.323907,946.5 775.947446,946.5 C822.491593,946.5 822.491593,946.5 893.827929,946.5 C1073.62228,946.5 1073.68886,946.5 1352.40874,946.5 C1360.57215,942.943108 1364.5,938.279054 1364.5,932.4506 C1364.5,931.392252 1364.5,931.392252 1364.5,928.568126 C1364.5,924.861111 1364.5,924.861111 1364.5,919.388317 C1364.5,905.794062 1364.5,905.794062 1364.5,885.136693 C1364.5,833.227282 1364.5,833.227282 1364.5,753.065415 C1364.5,550.68453 1364.5,550.363506 1364.5,236.15075 L1113.07482,236.15075 L944.145847,155.5 L735.865893,155.5 Z" id="Path-3" stroke="#000000" stroke-width="3" fill="#DC092D"></path>
+        <rect id="Rectangle-Copy" stroke="#000000" stroke-width="3" fill="#DC092D" x="76.5" y="77.5" width="645" height="869" rx="20"></rect>
+        <circle id="Oval" stroke="#000000" stroke-width="3" fill="#FFFFFF" cx="163" cy="148" r="43.5"></circle>
+        <g id="Oval-Copy">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#28AAFD" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+        <polyline id="Path" stroke="#000000" stroke-width="3" points="76.5186283 235.789243 286.85129 235.789243 461.215229 155.5 721 155.5"></polyline>
+        <rect id="Rectangle" stroke="#000000" stroke-width="3" fill="#A60B25" x="676.5" y="155.5" width="57" height="791" rx="20"></rect>
+    </g>
+</svg>
