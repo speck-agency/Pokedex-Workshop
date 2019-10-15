@@ -29,7 +29,7 @@ const PokeSearch = props => {
         <ArrowButton
           onClick={() => {
             if (currentPokemonNumber < 802) {
-              setCurrentPokemon(parseIntNumber(currentPokemon) + 1);
+              setCurrentPokemonNumber(parseInt(currentPokemonNumber) + 1);
             }
           }}
         >
